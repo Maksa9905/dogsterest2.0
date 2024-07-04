@@ -1,0 +1,10 @@
+.main__inner {
+  padding: auto 50px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: start;
+  gap: 10px;
+  grid-auto-flow: row;
+}
